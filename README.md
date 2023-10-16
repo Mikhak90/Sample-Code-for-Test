@@ -21,3 +21,6 @@ F(n) = F(n-1) + F(n-2) for n > 1
 
 ### Merge Sort
 It divides the unsorted list to sort them and then merges the sorted sublists. It has a time complexity of O(n log n).
+
+### Selection Sort
+Selection sort repeatedly selects the minimum element from an unsorted part of the list and moves it to the beginning of the sorted list. Its time complexity is O(n^2).
