@@ -9,3 +9,6 @@ Async programming gives a feeling of concurrency while using a single thread in 
 ### Binary Search
 It is a search algorithm worked over a sorted list by repeatedly dividing the search interval in half. It works based on the comparison between the middle element and narrows the search range. It has a time complexity of O(log n). 
 It includes a unit-test function
+
+### Bubble Sort
+It compares adjacent elements and swaps them if they are in the wrong order. Its time complexity is O(n^2)
