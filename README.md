@@ -27,3 +27,6 @@ Async programming gives a feeling of concurrency while using a single thread in 
 
 ### Multi-threading 
 Multi-threading is when multiple threads within a single process execute different tasks concurrently. 
+
+### Mulit-processing
+In multi-processing each processor has one assigned CUP/core. Processes are started with start(), and with join() wait for all processes to complete.
