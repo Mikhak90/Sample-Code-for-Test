@@ -18,3 +18,6 @@ It can be calculated in two ways, iterative and recursive, where both are addres
 F(0) = 0
 F(1) = 1
 F(n) = F(n-1) + F(n-2) for n > 1
+
+### Merge Sort
+It divides the unsorted list to sort them and then merges the sorted sublists. It has a time complexity of O(n log n).
