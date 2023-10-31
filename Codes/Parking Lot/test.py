@@ -2,7 +2,7 @@ import unittest
 from parking import Parking
 
 parking = Parking()
-class TestEcho(unittest.TestCase):
+class TestParking(unittest.TestCase):
     
     def test_repeat(self):
       self.assertEqual(parking.check_availability(), True)
