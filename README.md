@@ -32,3 +32,6 @@ Multi-threading is when multiple threads within a single process execute differe
 
 ### Mulit-processing
 In multi-processing each processor has one assigned CUP/core. Processes are started with start(), and with join() wait for all processes to complete.
+
+### Parking Lot Problem
+A parking lot logic is implemented using Object-oriented priciples
